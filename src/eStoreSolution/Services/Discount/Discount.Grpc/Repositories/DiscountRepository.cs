@@ -6,7 +6,7 @@ using Discount.Grpc.Repositories;
 using Microsoft.Extensions.Configuration;
 using Npgsql;
 
-namespace Discount.API.Repositories
+namespace Discount.Grpc.Repositories
 {
 	public class DiscountRepository : IDiscountRepository
 	{
